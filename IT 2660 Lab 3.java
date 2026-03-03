@@ -1,4 +1,8 @@
- public class Main {
+// Jose Zapata - IT 2660
+// Lab 3 - Development Effecient
+
+
+public class Main {
   public static void main(String[] args) {
     String text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
     
@@ -53,4 +57,5 @@
     
     return true;
   }
+
 }   
